@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+aiogram
+beautifulsoup4v
+psycopg2-binary
+psycopg2
